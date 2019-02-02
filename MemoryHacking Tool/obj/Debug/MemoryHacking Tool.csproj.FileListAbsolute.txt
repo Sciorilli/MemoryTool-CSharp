@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\bin\Debug\MemoryHacking Tool.exe.config
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\bin\Debug\MemoryHacking Tool.exe
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\bin\Debug\MemoryHacking Tool.pdb
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\bin\Debug\DotNetAobScanMemory.dll
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\obj\Debug\MemoryHacking Tool.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\obj\Debug\MemoryHacking_Tool.MainForm.resources
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\obj\Debug\MemoryHacking_Tool.Properties.Resources.resources
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\obj\Debug\MemoryHacking Tool.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\obj\Debug\MemoryHacking Tool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\obj\Debug\MemoryHacking Tool.csproj.CopyComplete
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\obj\Debug\MemoryHacking Tool.exe
+C:\Users\User\source\repos\MemoryHacking Tool\MemoryHacking Tool\obj\Debug\MemoryHacking Tool.pdb
